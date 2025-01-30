@@ -40,14 +40,3 @@ The **Travel & Tourism Management System** is a Java-based project designed to s
 - **Admin:** Manage tour packages, users, and reservations.
 
 ## Screenshots
-(Add relevant screenshots here)
-
-## Contributing
-Pull requests are welcome! Please open an issue first to discuss any major changes.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any inquiries, contact [Your Name] at [your.email@example.com].
-
